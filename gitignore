@@ -1,0 +1,13 @@
+# Vivado 임시 파일 및 폴더 무시
+*.jou
+*.log
+*.pb
+*.wdb
+*.wcfg
+*.str
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
